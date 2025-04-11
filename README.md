@@ -9,46 +9,8 @@ Problem Statement :
 In most schools and colleges, students silently struggle since they don't receive the assistance they require. Some students are excellent in some subjects but hardly assist others. At the same time, a lot of students can't hire tutors or simply don't dare to ask for assistance. There is a large gap between the ones who can assist and the ones who need it.
 StudyCircle wants to close that gap.
 
-Existing Application :
- Chegg, Brainly: Primarily Q&A, not actual tutoring 
- Wyzant, Preply: Pay-per-tutor websites, typically pricey
- Khan Academy: Awesome videos, but no individual relationship
- Discord Study Servers: Fun but chaotic and difficult to organize
- 
-What Makes StudyCircle Different?
-Students teaching students – Not teachers or experts, just friends
-One profile, two roles – Be a learner and a tutor
-Smart matching – Find someone on your level, in your timezone
-Chat integrated – No app switching
-AI utilities (optional) – For summarizing notes, tutor recommendations, and voice chat
-Free, simple, and inviting – No gates, just learning
- 
-Tools & Tech Stack : 
-Frontend:
-• React + Vite: Smooth and fast user experience
-• Tailwind CSS: Clean, modern aesthetic
-Backend:
-• Node.js + Express: Robust API setup
-• MongoDB: Easy database
-• Socket.io: For real-time chats
- 
-Authentication:
-• Firebase Auth or JWT: Secure login with roles (learner/tutor)
- 
-Extras:
-• Vercel + Render/Netlify: Easy and fast deployment
-• Postman: To test the backend
-• Figma: To create wireframes and mockups
-
 Conclusion : 
 StudyCircle isn't a new app, it's a fresh way of learning. It reverses the model from competition to cooperation. Where students help students instead of being behind. It's light, welcoming, and designed to develop alongside students. In a world where learning seems to be a struggle and loneliness, StudyCircle creates a bridge one supportive student at a time.
-
-References : 
-Wyzant 
-Brainly  
-Preply 
-Khan Academy 
-
 
 
 StudyCircle: Platform - Day-by-Day Plan (25 Days)
