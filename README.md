@@ -23,7 +23,7 @@ Chat integrated – No app switching
 AI utilities (optional) – For summarizing notes, tutor recommendations, and voice chat
 Free, simple, and inviting – No gates, just learning
  
-Tools & Tech Stack
+Tools & Tech Stack : 
 Frontend:
 • React + Vite: Smooth and fast user experience
 • Tailwind CSS: Clean, modern aesthetic
@@ -40,10 +40,10 @@ Extras:
 • Postman: To test the backend
 • Figma: To create wireframes and mockups
 
-Conclusion
+Conclusion : 
 StudyCircle isn't a new app, it's a fresh way of learning. It reverses the model from competition to cooperation. Where students help students instead of being behind. It's light, welcoming, and designed to develop alongside students. In a world where learning seems to be a struggle and loneliness, StudyCircle creates a bridge one supportive student at a time.
 
-References
+References : 
 Wyzant 
 Brainly  
 Preply 
