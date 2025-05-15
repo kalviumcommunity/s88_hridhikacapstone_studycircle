@@ -1,18 +1,20 @@
-Title
+Title :
 StudyCircle: Where Students Help Students Win
 
-Description
+Description :
 StudyCircle is a peer tutoring site where students assist one another in learning either within or out of school. It's an open, sociable environment in which learning becomes effortless and nourishing. 
 Regardless of whether you're stuck in math or nailing biology, you can seek assistance or offer it, on your own schedule.
 
-Problem Statement
+Problem Statement :
 In most schools and colleges, students silently struggle since they don't receive the assistance they require. Some students are excellent in some subjects but hardly assist others. At the same time, a lot of students can't hire tutors or simply don't dare to ask for assistance. There is a large gap between the ones who can assist and the ones who need it.
 StudyCircle wants to close that gap.
+
 Existing Application
  Chegg, Brainly: Primarily Q&A, not actual tutoring 
  Wyzant, Preply: Pay-per-tutor websites, typically pricey
  Khan Academy: Awesome videos, but no individual relationship
  Discord Study Servers: Fun but chaotic and difficult to organize
+
 What Makes StudyCircle Different?
 Students teaching students – Not teachers or experts, just friends
 One profile, two roles – Be a learner and a tutor
@@ -38,10 +40,10 @@ Extras:
 • Postman: To test the backend
 • Figma: To create wireframes and mockups
 
-Conclusion
+Conclusion :
 StudyCircle isn't a new app, it's a fresh way of learning. It reverses the model from competition to cooperation. Where students help students instead of being behind. It's light, welcoming, and designed to develop alongside students. In a world where learning seems to be a struggle and loneliness, StudyCircle creates a bridge one supportive student at a time.
 
-References
+References :
 Wyzant 
 Brainly  
 Preply 

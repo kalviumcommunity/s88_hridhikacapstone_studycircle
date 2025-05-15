@@ -1,0 +1,25 @@
+{
+  "name": "s88_hridhikacapstone_studycircle",
+  "version": "1.0.0",
+  "description": "Title :\r StudyCircle: Where Students Help Students Win",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/s88_hridhikacapstone_studycircle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/s88_hridhikacapstone_studycircle/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/s88_hridhikacapstone_studycircle#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  }
+}
