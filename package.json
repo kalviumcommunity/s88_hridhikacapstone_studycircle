@@ -1,9 +1,11 @@
 {
   "name": "s88_hridhikacapstone_studycircle",
   "version": "1.0.0",
-  "description": "Title :\r StudyCircle: Where Students Help Students Win",
-  "main": "index.js",
+  "type": "module",
+  "description": "Title : StudyCircle: Where Students Help Students Win",
+  "main": "backend/server.js",
   "scripts": {
+    "start": "node backend/server.js",
     "dev": "nodemon backend/server.js"
   },
   "repository": {
@@ -23,3 +25,4 @@
     "mongoose": "^8.14.3"
   }
 }
+
