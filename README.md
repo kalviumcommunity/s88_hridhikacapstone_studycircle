@@ -47,4 +47,9 @@ Week 5 – AI & Final Touches
 
 Day 21 : Including voice note upload in chat (record + play audio) Day 22 : Including a basic AI tutor recommendation (sort by subject match or top rating). Day 23 : Completing user interface polish : Making it responsive Resolving layout issues Including loading spinners. Day 24 : Completing testing (search, chat, schedule, and review flows) Having a friend test it and provide feedback. Day 25 : Frontend deployment (Vercel/Netlify) Backend deployment (Render/Railway)
 
+
+## Deployed Backend
+
+The backend server is live at: [https://s88-hridhikacapstone-studycircle.onrender.com](https://s88-hridhikacapstone-studycircle.onrender.com)
+
 FINISHED
