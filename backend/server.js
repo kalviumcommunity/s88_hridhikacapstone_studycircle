@@ -16,7 +16,9 @@ app.get('/', (req, res) => {
 
 app.use('/api/users', userRoutes);
 
-app.listen(PORT, () => {
-    connectDB();
-    console.log(`Server is running on port ${PORT}`);
+connectDB().then(() => {
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+  });
 });
+
