@@ -5,23 +5,21 @@ export const getUser = async (req, res) => {
     const users = await User.find({});
     res.status(200).json(users);
   } catch (error) {
-    console.error("Error in fetching the users", error);
-    res.status(500).json({ success: false, message: "Server Error" });
+    res.status(500).json({ success: false, message: 'Server Error' });
   }
 };
 
 export const createUser = async (req, res) => {
   try {
-    const { name, email, password } = req.body; 
+    const { name, email, password } = req.body;
     const newUser = new User({ name, email, password });
     await newUser.save();
     res.status(201).json(newUser);
   } catch (error) {
     if (error.code === 11000) {
-      return res.status(400).json({ success: false, message: "Email already exists" });
+      return res.status(400).json({ success: false, message: 'Email already exists' });
     }
-    console.error("Error creating user", error);
-    res.status(500).json({ success: false, message: "Server Error" });
+    res.status(500).json({ success: false, message: 'Server Error' });
   }
 };
 
@@ -36,13 +34,12 @@ export const updateUser = async (req, res) => {
     });
 
     if (!updatedUser) {
-      return res.status(404).json({ success: false, message: "User not found" });
+      return res.status(404).json({ success: false, message: 'User not found' });
     }
 
     res.status(200).json(updatedUser);
   } catch (error) {
-    console.error("Error updating user", error);
-    res.status(500).json({ success: false, message: "Server Error" });
+    res.status(500).json({ success: false, message: 'Server Error' });
   }
 };
 
