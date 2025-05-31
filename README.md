@@ -57,4 +57,3 @@ The backend server is live at: [https://s88-hridhikacapstone-studycircle.onrende
 🔗 [Frontend Deployed on Netlify](https://shimmering-dango-0410f8.netlify.app/)
 
 
-FINISHED
