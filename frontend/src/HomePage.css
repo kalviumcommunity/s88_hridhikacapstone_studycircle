@@ -1,0 +1,60 @@
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(to bottom right, #e0f0ff, #d6d6f8);
+  color: #333;
+  text-align: center;
+}
+
+.homepage-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.homepage-description {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.homepage-buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.primary-btn {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+}
+
+.primary-btn:hover {
+  background-color: #4338ca;
+}
+
+.secondary-btn {
+  border: 2px solid #4f46e5;
+  color: #4f46e5;
+  background-color: transparent;
+}
+
+.secondary-btn:hover {
+  background-color: #eef2ff;
+  color: #3730a3;
+}
