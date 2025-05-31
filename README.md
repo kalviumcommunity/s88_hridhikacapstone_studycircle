@@ -31,34 +31,34 @@ Day 5 : Testing the activation flowPolish UI (basic responsive base)
 
 Week 2 - Profiles & Search
 
-Day 6 : Building a profile form: Subjects to teach/learn When you are available What grade level 
-Day 7 : Saving profiles to MongoDB Connecting the frontend form to backend 
-Day 8 : Building the frontend of the tutor search page (filters results layout)
-Day 9 : Backend: an API to fetch filtered tutors (by subject, classrooms, when available) 
-Day 10 : Linking search filters to backend Testing the search flow (see matching tutors)
+Day 6 : Building a profile form: Subjects to teach/learn When you are available What grade level   
+Day 7 : Saving profiles to MongoDB Connecting the frontend form to backend     
+Day 8 : Building the frontend of the tutor search page (filters results layout)   
+Day 9 : Backend: an API to fetch filtered tutors (by subject, classrooms, when available)     
+Day 10 : Linking search filters to backend Testing the search flow (see matching tutors)      
 
 Week 3 - Messaging & Scheduling
 
-Day 11 : Building out chat backend (Socket.io, or a polling system) 
-Day 12 : Building chat UI (to send / receive messages) 
-Day 13 : Saving chat history into MongoDB Rendering previous chat messages 
-Day 14 : Building out session scheduler (select date/time make request)
-Day 15 : Saving session requests Rendering upcoming session for each user
+Day 11 : Building out chat backend (Socket.io, or a polling system)     
+Day 12 : Building chat UI (to send / receive messages)        
+Day 13 : Saving chat history into MongoDB Rendering previous chat messages     
+Day 14 : Building out session scheduler (select date/time make request)      
+Day 15 : Saving session requests Rendering upcoming session for each user      
 
 Week 4 - Reviews & Notifications
 
-Day 16 : Creating reviews form (stars feedback text)
-Day 17 : Rendering reviews on tutor pages Adding tags like "great notes" or "super
-Day 18 : Creating a notification system (store notifications in DB). 
-Day 19 : Displaying notifications for upcoming sessions A reminder to submit a review Alerts about new tutors 
-Day 20 : Using a program like EmailJS or Nodemailer, you can optionally add email notifications.
+Day 16 : Creating reviews form (stars feedback text)        
+Day 17 : Rendering reviews on tutor pages Adding tags like "great notes" or "super        
+Day 18 : Creating a notification system (store notifications in DB).    
+Day 19 : Displaying notifications for upcoming sessions A reminder to submit a review Alerts about new tutors      
+Day 20 : Using a program like EmailJS or Nodemailer, you can optionally add email notifications.    
 
 Week 5 – AI & Final Touches
 
-Day 21 : Including voice note upload in chat (record + play audio) 
-Day 22 : Including a basic AI tutor recommendation (sort by subject match or top rating). 
-Day 23 : Completing user interface polish : Making it responsive Resolving layout issues Including loading spinners. 
-Day 24 : Completing testing (search, chat, schedule, and review flows) Having a friend test it and provide feedback. 
+Day 21 : Including voice note upload in chat (record + play audio)      
+Day 22 : Including a basic AI tutor recommendation (sort by subject match or top rating).     
+Day 23 : Completing user interface polish : Making it responsive Resolving layout issues Including loading spinners.     
+Day 24 : Completing testing (search, chat, schedule, and review flows) Having a friend test it and provide feedback.     
 Day 25 : Frontend deployment (Vercel/Netlify) Backend deployment (Render/Railway)
 
 
