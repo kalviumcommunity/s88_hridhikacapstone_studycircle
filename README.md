@@ -52,4 +52,9 @@ Day 21 : Including voice note upload in chat (record + play audio) Day 22 : Incl
 
 The backend server is live at: [https://s88-hridhikacapstone-studycircle.onrender.com](https://s88-hridhikacapstone-studycircle.onrender.com)
 
+## 🚀 Live Deployment
+
+🔗 [Frontend Deployed on Netlify](https://shimmering-dango-0410f8.netlify.app/)
+
+
 FINISHED
