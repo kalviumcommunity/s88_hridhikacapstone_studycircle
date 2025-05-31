@@ -64,7 +64,7 @@ Day 25 : Frontend deployment (Vercel/Netlify) Backend deployment (Render/Railway
 
 ## Deployed Backend
 
-🔗 [backend server is live](https://s88-hridhikacapstone-studycircle.onrender.com)
+🔗 [Backend Server is Live](https://s88-hridhikacapstone-studycircle.onrender.com)
 
 ## Live Deployment
 
