@@ -23,11 +23,11 @@ StudyCircle: Platform - Day-by-Day Plan (25 Days)
 
 Week 1 - Setup & Design
 
-Day 1: Selecting a technology stack (React, Express, MongoDB, Tailwind) Making some rough sketches (just sketching out homepage, profile, search, chat) 
-Day 2 : Creating Github repo (with frontend & backend folders) Creating a basic folder/file structure 
-Day 3 : Laying out the homepage (header, sections, basic styling) 
-Day 4 : How to sign-up & log-in (auth with JWT or session cookies) 
-Day 5 : Testing the activation flowPolish UI (basic responsive base)
+Day 1: Selecting a technology stack (React, Express, MongoDB, Tailwind) Making some rough sketches (just sketching out homepage, profile, search, chat)      
+Day 2 : Creating Github repo (with frontend & backend folders) Creating a basic folder/file structure    
+Day 3 : Laying out the homepage (header, sections, basic styling)    
+Day 4 : How to sign-up & log-in (auth with JWT or session cookies)     
+Day 5 : Testing the activation flowPolish UI (basic responsive base)        
 
 Week 2 - Profiles & Search
 
